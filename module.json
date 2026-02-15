@@ -1,9 +1,9 @@
 {
-"id": "wcube_fel",
-	"name": "wcube_fel",
+"id": "feldice",
+	"name": "feldice",
 	"title": "Dice So Nice - Fel Dice Set",
 	"description": "Fel Dice Set",
-	"version": "1.0.9",
+	"version": "1.0.10",
 	"minimumCoreVersion": "0.7.2",
 	"compatibleCoreVersion": "13",
 	"compatibility": {
@@ -31,7 +31,7 @@
 		]
 	},
 	"scripts": [
-		"wcube.js"
+		"feldice.js"
 	],
 	"url": "https://github.com/roquet11/FelDiceSet",
 	"manifest": "https://raw.githubusercontent.com/JavierJ-TC/FelDice/refs/heads/main/module.json",
