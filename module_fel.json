@@ -31,7 +31,7 @@
 		]
 	},
 	"scripts": [
-		"wcube.js"
+		"wcube_fel.js"
 	],
 	"url": "https://github.com/roquet11/FelDiceSet",
 	"manifest": "https://raw.githubusercontent.com/JavierJ-TC/FelDice/refs/heads/main/module.json",
