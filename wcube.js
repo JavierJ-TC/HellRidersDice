@@ -1,5 +1,5 @@
 Hooks.once('diceSoNiceReady', (dice3d) => {
-	dice3d.addSystem({id: "wcube", name: "Fel Dices"}, false);
+	dice3d.addSystem({id: "wcube_fel", name: "Fel Dices"}, false);
 	dice3d.addDicePreset({
 		type: "d20",
 		labels: "",
