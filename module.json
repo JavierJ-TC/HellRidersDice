@@ -3,7 +3,7 @@
 	"name": "feldice",
 	"title": "Dice So Nice - Fel Dice Set",
 	"description": "Fel Dice Set",
-	"version": "1.0.10",
+	"version": "1.0.11",
 	"minimumCoreVersion": "0.7.2",
 	"compatibleCoreVersion": "13",
 	"compatibility": {
