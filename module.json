@@ -2,8 +2,8 @@
 "id": "hellridersdice",
 	"name": "hellridersdice",
 	"title": "Dice So Nice - HellRider Dice Set",
-	"description": "HellRider Dice Set",
-	"version": "1.0.16",
+	"description": "HellRider Dice",
+	"version": "1.0.17",
 	"minimumCoreVersion": "0.7.2",
 	"compatibleCoreVersion": "13",
 	"compatibility": {
@@ -34,7 +34,7 @@
 		"feldice.js",
 		"katdice.js"
 	],
-	"url": "https://github.com/roquet11/FelDiceSet",
-	"manifest": "https://raw.githubusercontent.com/JavierJ-TC/FelDice/refs/heads/main/module.json",
-	"download": "https://github.com/JavierJ-TC/FelDice/releases/download/Release/FelDice.zip"
+	"url": "https://github.com/roquet11/HellRidersDice",
+	"manifest": "https://raw.githubusercontent.com/JavierJ-TC/HellRidersDice/refs/heads/main/module.json",
+	"download": "https://github.com/JavierJ-TC/HellRidersDice/releases/download/Release/HellRidersDice.zip"
 }

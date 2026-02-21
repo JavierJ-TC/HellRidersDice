@@ -3,7 +3,7 @@ Hooks.once('diceSoNiceReady', (dice3d) => {
 	dice3d.addDicePreset({
 		type: "d20",
 		labels: "",
-		modelFile: "modules/hellridersdice/fet_d20.glb",
+		modelFile: "modules/hellridersdice/fel_d20.glb",
 		system: "feldice"
 	});
 });
