@@ -1,9 +1,9 @@
 {
-"id": "feldice",
-	"name": "feldice",
-	"title": "Dice So Nice - Fel Dice Set",
-	"description": "Fel Dice Set",
-	"version": "1.0.13",
+"id": "hellridersdice",
+	"name": "hellridersdice",
+	"title": "Dice So Nice - HellRider Dice Set",
+	"description": "HellRider Dice Set",
+	"version": "1.0.15",
 	"minimumCoreVersion": "0.7.2",
 	"compatibleCoreVersion": "13",
 	"compatibility": {
@@ -31,7 +31,8 @@
 		]
 	},
 	"scripts": [
-		"feldice.js"
+		"feldice.js",
+		"katdice.js"
 	],
 	"url": "https://github.com/roquet11/FelDiceSet",
 	"manifest": "https://raw.githubusercontent.com/JavierJ-TC/FelDice/refs/heads/main/module.json",
