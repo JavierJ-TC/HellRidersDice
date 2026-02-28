@@ -3,7 +3,7 @@
 	"name": "hellridersdice",
 	"title": "Dice So Nice - HellRider Dice Set",
 	"description": "HellRider Dice",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"minimumCoreVersion": "0.7.2",
 	"compatibleCoreVersion": "13",
 	"compatibility": {
