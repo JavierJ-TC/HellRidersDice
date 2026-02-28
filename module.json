@@ -3,7 +3,7 @@
 	"name": "hellridersdice",
 	"title": "Dice So Nice - HellRider Dice Set",
 	"description": "HellRider Dice",
-	"version": "1.0.20",
+	"version": "1.1.0",
 	"minimumCoreVersion": "0.7.2",
 	"compatibleCoreVersion": "13",
 	"compatibility": {
@@ -32,7 +32,8 @@
 	},
 	"scripts": [
 		"feldice.js",
-		"katdice.js"
+		"katdice.js",
+		"otherdice.js"
 	],
 	"url": "https://github.com/roquet11/HellRidersDice",
 	"manifest": "https://raw.githubusercontent.com/JavierJ-TC/HellRidersDice/refs/heads/main/module.json",
